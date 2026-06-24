@@ -89,7 +89,7 @@ Each folder contains:
 
 1. **Clone this repository:**
    ```bash
-   git clone https://github.com/ParamKoli/OIBSIP OIBSIP
+   git clone https://github.com/ParamKoli/OIBSIP 
    ```
 
 2. **Install dependencies:**
