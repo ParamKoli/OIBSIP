@@ -66,10 +66,10 @@ Each folder contains:
 
 | # | Folder | Task Title | Status |
 |---|--------|-----------|--------|
-| L1-T1 | `DataAnalytics-L1-EDARetailSales` | EDA on Retail Sales Data | 🔄 In Progress |
-| L1-T2 | `DataAnalytics-L1-CustomerSegmentation` | Customer Segmentation Analysis | ⏳ Pending |
-| L1-T3 | `DataAnalytics-L1-DataCleaning` | Cleaning Data | ⏳ Pending |
-| L1-T4 | `DataAnalytics-L1-SentimentAnalysis` | Sentiment Analysis | ⏳ Pending |
+| L1-T1 | `DataAnalytics-L1-EDARetailSales` | EDA on Retail Sales Data | ✅ Completed |
+| L1-T2 | `DataAnalytics-L1-CustomerSegmentation` | Customer Segmentation Analysis | ✅ Completed |
+| L1-T3 | `DataAnalytics-L1-DataCleaning` | Cleaning Data | ✅ Completed |
+| L1-T4 | `DataAnalytics-L1-SentimentAnalysis` | Sentiment Analysis | ✅ Completed |
 
 ### 📈 Level 2 — Advanced Analytics
 
