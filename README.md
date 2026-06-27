@@ -79,7 +79,7 @@ Each folder contains:
 | L2-T2 | `DataAnalytics-L2-WineQualityPrediction` | Wine Quality Prediction | ✅ Completed |
 | L2-T3 | `DataAnalytics-L2-FraudDetection` | Fraud Detection | ✅ Completed  |
 | L2-T4 | `DataAnalytics-L2-GooglePlayStoreAnalysis` | Unveiling the Android App Market | ✅ Completed |
-| L2-T5 | `DataAnalytics-L2-AutocompleteAutocorrect` | Autocomplete and Autocorrect Analytics | ⏳ Pending |
+| L2-T5 | `DataAnalytics-L2-AutocompleteAutocorrect` | Autocomplete and Autocorrect Analytics | ✅ Completed |
 
 > ✅ **Completion Rule:** Minimum 3 tasks from Level 1 or Level 2 combined. All tasks completed for LOR eligibility.
 
