@@ -77,7 +77,7 @@ Each folder contains:
 |---|--------|-----------|--------|
 | L2-T1 | `DataAnalytics-L2-HousePricePrediction` | Predicting House Prices with Linear Regression | ✅ Completed |
 | L2-T2 | `DataAnalytics-L2-WineQualityPrediction` | Wine Quality Prediction | ✅ Completed |
-| L2-T3 | `DataAnalytics-L2-FraudDetection` | Fraud Detection | ⏳ Pending |
+| L2-T3 | `DataAnalytics-L2-FraudDetection` | Fraud Detection | ✅ Completed  |
 | L2-T4 | `DataAnalytics-L2-GooglePlayStoreAnalysis` | Unveiling the Android App Market | ⏳ Pending |
 | L2-T5 | `DataAnalytics-L2-AutocompleteAutocorrect` | Autocomplete and Autocorrect Analytics | ⏳ Pending |
 
