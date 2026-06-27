@@ -3,8 +3,8 @@
 <p align="center">
   <img src="https://img.shields.io/badge/Internship-Oasis%20Infobyte-blue?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Domain-Data%20Analytics-orange?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Batch-July%202026-green?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Status-%20Progress-yellow?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Batch-July%202026-yellow?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Status-%20Completed-green?style=for-the-badge" />
 </p>
 
 ---
